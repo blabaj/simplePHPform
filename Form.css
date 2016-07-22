@@ -1,0 +1,62 @@
+#wrapper {
+	height: 1000px;
+	width: 1200px;
+	margin: auto;
+	background: grey;
+	box-shadow: -1px -1px 15px black;
+}
+#show {
+	color: black;
+	font-family: century gothic;
+	font-size: 25px;
+	margin-left: 420px;
+	margin-top: 20px;
+	background: grey;
+
+}
+#name {
+	height: 30px;
+	width: 300px;
+	margin-left: 450px;
+	margin-top: 150px;
+	font-family: century gothic;
+	font-size: 18px;
+	box-shadow: 1px 1px 10px white;
+}
+#email {
+	height: 30px;
+	width: 300px;
+	margin-left: 450px;
+	margin-top: 20px;
+	font-family: century gothic;
+	font-size: 18px;
+	box-shadow: 1px 1px 10px white;
+}
+#cellno {
+	height: 30px;
+	width: 300px;
+	margin-left: 450px;
+	margin-top: 20px;
+	font-family: century gothic;
+	font-size: 18px;
+	box-shadow: 1px 1px 10px white;
+}
+#password {
+	height: 30px;
+	width: 300px;
+	margin-left: 450px;
+	margin-top: 20px;
+	font-family: century gothic;
+	font-size: 18px;
+	box-shadow: 1px 1px 10px white;
+}
+#submit {
+	height: 30px;
+	width: 150px;
+	margin-left: 605px;
+	margin-top: 60px;
+	font-family: century gothic;
+	font-size: 18px;
+	color: gray;
+	box-shadow: 1px 1px 7px white;
+}
